@@ -1,0 +1,12 @@
+{
+   "type" : "Plugin|IconPack",
+   "name" : "Minecraft Color Icons", (You can't change this in the future)
+   "author" : "ChaosDesignNZ",
+   "repository" : "https://https://github.com/chaosdesignnz/MacroDeck-Minecraft-Icons",
+   "packageId" : "ChaosDesignNZ.MinecraftColorIcons", (No whitespace and no special characters allowed, you can't change this in the future)
+   "version" : "1.0.0", (Recommended format: Major.Minor.Patch)
+   "target-plugin-api-version" : 40, (Find this in the Macro Deck settings)
+   "target-macro-deck-version" : "1.13.0", (The current version you're using for development)
+   "dll" : "" (Only required for plugins)
+   "author-discord-userid": "249402683050557443" (Optional: Your Discord user Id for support)
+}
